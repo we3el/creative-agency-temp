@@ -59,8 +59,8 @@ section {
     z-index: 20;
 }
 
-/* TOGGLE */
-.toggle {
+/* TOGGLER */
+.toggler {
     position: fixed;
     top: 0;
     right: 0;
@@ -74,7 +74,7 @@ section {
     cursor: pointer;
 }
 
-.toggle.active {
+.toggler.active {
     background: var(--primary-color) url(../images/close.png);
     z-index: 20;
     background-size: 25px;
