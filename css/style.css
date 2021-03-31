@@ -43,6 +43,11 @@ section#services {
     margin-top: 60px;
 }
 
+section#work {
+    flex-direction: column;
+    margin-top: 60px;
+}
+
 /* BUTTON */
 .btn {
     display: inline-block;
