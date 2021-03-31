@@ -34,6 +34,15 @@ section {
     padding: 100px;
 }
 
+section.home {
+    flex-direction: row;
+}
+
+section.services {
+    flex-direction: column;
+    margin-top: 60px;
+}
+
 /* BUTTON */
 .btn {
     display: inline-block;
